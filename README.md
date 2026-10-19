@@ -28,6 +28,7 @@ where to discuss Traditional Chinese Medicine.
 13. [Stack Exchange communities](#13-stack-exchange-communities)
 14. [For researchers in Brazil](#14-for-researchers-in-brazil)
 15. [Traditional Chinese Medicine](#15-traditional-chinese-medicine)
+16. 📚 [Reliable theses and dissertations](THESES.md) *(separate page: 49 tips from official sources)*
 
 ---
 

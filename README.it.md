@@ -28,6 +28,7 @@ su dove discutere di Medicina Tradizionale Cinese.
 13. [Comunità di Stack Exchange](#13-comunità-di-stack-exchange)
 14. [Per chi fa ricerca in Brasile](#14-per-chi-fa-ricerca-in-brasile)
 15. [Medicina Tradizionale Cinese](#15-medicina-tradizionale-cinese)
+16. 📚 [Tesi affidabili](TESI.it.md) *(pagina a parte: 49 consigli da fonti ufficiali)*
 
 ---
 
