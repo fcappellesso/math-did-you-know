@@ -1,6 +1,6 @@
 🇬🇧 [English](THESES.md) · 🇧🇷 [Português](TESES.pt-BR.md) · 🇮🇹 **Italiano**
 
-[← Torna alla guida](README.it.md)
+[← Lo sapevi?](README.it.md)
 
 # 📚 Tesi affidabili
 
@@ -150,4 +150,4 @@ governi o istituzioni scientifiche.
 
 ---
 
-[← Torna alla guida](README.it.md)
+[← Lo sapevi?](README.it.md)

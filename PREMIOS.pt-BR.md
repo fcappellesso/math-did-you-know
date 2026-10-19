@@ -1,6 +1,6 @@
 🇬🇧 [English](PRIZES.md) · 🇧🇷 **Português** · 🇮🇹 [Italiano](PREMI.it.md)
 
-[← Perfil de Franchesca Cappellesso](https://github.com/fcappellesso)
+[← Você sabia?](README.pt-BR.md) · [Perfil de Franchesca Cappellesso](https://github.com/fcappellesso)
 
 # 💡 Você sabia?
 
@@ -304,4 +304,4 @@ em outras áreas.*
 
 ---
 
-[← Perfil de Franchesca Cappellesso](https://github.com/fcappellesso)
+[← Você sabia?](README.pt-BR.md) · [Perfil de Franchesca Cappellesso](https://github.com/fcappellesso)

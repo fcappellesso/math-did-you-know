@@ -1,6 +1,6 @@
 🇬🇧 [English](PRIZES.md) · 🇧🇷 [Português](PREMIOS.pt-BR.md) · 🇮🇹 **Italiano**
 
-[← Profilo di Franchesca Cappellesso](https://github.com/fcappellesso)
+[← Lo sapevi?](README.it.md) · [Profilo di Franchesca Cappellesso](https://github.com/fcappellesso)
 
 # 💡 Lo sapevi?
 
@@ -301,4 +301,4 @@ Nobel in altri campi.*
 
 ---
 
-[← Profilo di Franchesca Cappellesso](https://github.com/fcappellesso)
+[← Lo sapevi?](README.it.md) · [Profilo di Franchesca Cappellesso](https://github.com/fcappellesso)

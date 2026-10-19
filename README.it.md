@@ -1,15 +1,31 @@
 🇬🇧 [English](README.md) · 🇧🇷 [Português](README.pt-BR.md) · 🇮🇹 **Italiano**
 
-# Una mappa accademica per la matematica
+# 💡 Matematica: lo sapevi?
+
+Un premio da un milione di dollari che una sola persona ha vinto, e
+rifiutato. Tesi di tutto il mondo che chiunque può leggere gratis e nel
+rispetto della legge. Una medaglia da circa quindicimila dollari canadesi che
+ogni matematico sogna. La matematica è piena di storie che pochi conoscono.
+
+- 🏅 **[Quarantasei gradini verso il quasi impossibile](PREMI.it.md)** — premi
+  e riconoscimenti in matematica, dalle olimpiadi scolastiche brasiliane alla
+  Medaglia Fields e ai Problemi del Millennio, con curiosità lungo il percorso.
+- 📚 **[Tesi affidabili](TESI.it.md)** — 49 consigli per trovare tesi gratis e
+  nel rispetto della legge: in Brasile, in America Latina e nel mondo.
+- 🧭 **[Dove i matematici leggono, chiedono e pubblicano](#dove-i-matematici-leggono-chiedono-e-pubblicano)**
+  — banche dati, riviste, blog, società e comunità: che cos'è ciascuno, se
+  richiede un account e come partecipare.
+
+*Explore. Learn. Stay curious.*
+
+---
+
+## Dove i matematici leggono, chiedono e pubblicano
 
 Una guida pratica ai siti, alle comunità, alle banche dati, alle riviste, alle
 società e agli strumenti che i matematici usano e seguono: **che cos'è
 ciascuno, se richiede un account e come partecipare**. In fondo, una sezione
 su dove discutere di Medicina Tradizionale Cinese.
-
-*Explore. Learn. Stay curious.*
-
----
 
 ## Indice
 

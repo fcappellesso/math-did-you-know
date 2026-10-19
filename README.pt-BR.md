@@ -1,15 +1,33 @@
 🇬🇧 [English](README.md) · 🇧🇷 **Português** · 🇮🇹 [Italiano](README.it.md)
 
-# Mapa acadêmico da matemática
+# 💡 Matemática: você sabia?
+
+Um prêmio de um milhão de dólares que só uma pessoa conquistou, e recusou.
+Teses do mundo inteiro que qualquer pessoa pode ler de graça e dentro da lei.
+Uma medalha de cerca de quinze mil dólares canadenses com a qual todo
+matemático sonha. A matemática está cheia de histórias que pouca gente conhece.
+
+- 🏅 **[Quarenta e seis degraus até o quase impossível](PREMIOS.pt-BR.md)** —
+  prêmios e reconhecimentos em matemática, das olimpíadas escolares
+  brasileiras à Medalha Fields e aos Problemas do Milênio, com curiosidades
+  pelo caminho.
+- 📚 **[Dissertações e teses confiáveis](TESES.pt-BR.md)** — 49 dicas para
+  encontrar teses de graça e dentro da lei: no Brasil, na América Latina e no
+  mundo.
+- 🧭 **[Onde os matemáticos leem, perguntam e publicam](#onde-os-matemáticos-leem-perguntam-e-publicam)**
+  — bases de dados, revistas, blogs, sociedades e comunidades: o que é cada
+  um, se precisa de login e como participar.
+
+*Explore. Learn. Stay curious.*
+
+---
+
+## Onde os matemáticos leem, perguntam e publicam
 
 Um guia prático dos sites, comunidades, bases de dados, revistas, sociedades
 e ferramentas que matemáticos costumam usar e acompanhar: **o que é cada um,
 se precisa de login e como participar**. No fim, uma seção sobre onde
 discutir Medicina Tradicional Chinesa.
-
-*Explore. Learn. Stay curious.*
-
----
 
 ## Sumário
 

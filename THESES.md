@@ -1,6 +1,6 @@
 🇬🇧 **English** · 🇧🇷 [Português](TESES.pt-BR.md) · 🇮🇹 [Italiano](TESI.it.md)
 
-[← Back to the guide](README.md)
+[← Did you know?](README.md)
 
 # 📚 Reliable theses and dissertations
 
@@ -149,4 +149,4 @@ scientific institution.
 
 ---
 
-[← Back to the guide](README.md)
+[← Did you know?](README.md)
