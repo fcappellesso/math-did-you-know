@@ -78,9 +78,10 @@ ainda não existia.*
 10. **Academia Brasileira de Ciências** · Brasil — Tornar-se membro titular
     não dá dinheiro algum. Dá algo mais raro: o reconhecimento vitalício dos
     próprios pares.
-11. **Prêmios de pesquisa do IMPA** · Brasil — Concedidos pelo Instituto de
-    Matemática Pura e Aplicada, no Rio de Janeiro, a trabalhos de altíssima
-    relevância.
+11. **Prêmio Elas na Matemática** · Brasil — Criado em 2024 pela SBM, com o
+    IMPA e o MCTI, reconhece matemáticas brasileiras: pesquisadoras de carreira
+    consolidada, jovens pesquisadoras de até 45 anos e quem incentiva mais
+    mulheres a seguir a matemática.
 
 ## Nível 4 · O topo do mundo
 

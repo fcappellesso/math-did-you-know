@@ -79,9 +79,10 @@ prima non esisteva.*
 10. **Accademia Brasiliana delle Scienze** · Brasile — Diventarne membro non
     porta alcun compenso. Porta qualcosa di più raro: il riconoscimento a vita
     dei propri pari.
-11. **Premi di ricerca dell'IMPA** · Brasile — Assegnati dall'Istituto di
-    Matematica Pura e Applicata, a Rio de Janeiro, a lavori di altissima
-    rilevanza.
+11. **Premio Elas na Matemática** · Brasile — Creato nel 2024 dalla SBM, con
+    l'IMPA e il Ministero della Scienza, riconosce le matematiche brasiliane:
+    ricercatrici affermate, giovani ricercatrici fino a 45 anni e chi
+    incoraggia più donne a scegliere la matematica.
 
 ## Livello 4 · La vetta del mondo
 

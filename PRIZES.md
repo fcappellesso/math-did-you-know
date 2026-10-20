@@ -78,8 +78,10 @@ did not exist before.*
 10. **Brazilian Academy of Sciences** · Brazil — Becoming a full member brings
     no money at all. It brings something rarer: the lifelong recognition of
     one's peers.
-11. **IMPA research prizes** · Brazil — Awarded by the Institute for Pure and
-    Applied Mathematics, in Rio de Janeiro, to work of the highest relevance.
+11. **Elas na Matemática Prize** · Brazil — Created in 2024 by SBM, with IMPA
+    and the Ministry of Science, it recognises Brazilian women mathematicians:
+    established researchers, young researchers up to age 45, and those who
+    encourage more women to pursue mathematics.
 
 ## Level 4 · The top of the world
 
