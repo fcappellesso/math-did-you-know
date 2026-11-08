@@ -17,6 +17,8 @@ dreams of. Mathematics is full of stories that few people know.
   — databases, journals, blogs, societies and communities: what each one is,
   whether it needs a login and how to take part.
 
+🌐 **Prefer to explore it interactively?** [Climb the staircase on my website →](https://fcappellesso.github.io/did-you-know.html)
+
 *Explore. Learn. Stay curious.*
 
 ---
