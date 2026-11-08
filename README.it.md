@@ -16,6 +16,8 @@ ogni matematico sogna. La matematica è piena di storie che pochi conoscono.
   — banche dati, riviste, blog, società e comunità: che cos'è ciascuno, se
   richiede un account e come partecipare.
 
+🌐 **Preferisci esplorare in modo interattivo?** [Sali la scala sul mio sito →](https://fcappellesso.github.io/lo-sapevi.html)
+
 *Explore. Learn. Stay curious.*
 
 ---

@@ -18,6 +18,8 @@ matemático sonha. A matemática está cheia de histórias que pouca gente conhe
   — bases de dados, revistas, blogs, sociedades e comunidades: o que é cada
   um, se precisa de login e como participar.
 
+🌐 **Prefere explorar de forma interativa?** [Suba a escada no meu site →](https://fcappellesso.github.io/voce-sabia.html)
+
 *Explore. Learn. Stay curious.*
 
 ---
