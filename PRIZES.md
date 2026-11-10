@@ -38,13 +38,13 @@ has earned it, and he turned the money down.
 1. **OBMEP** · Brazil — The Brazilian Mathematics Olympiad for Public Schools
    is the largest competition in the country. Every year it awards thousands
    of students with medals and undergraduate research scholarships. For many
-   of them, it is the first hint that mathematics can be a profession.
+   of them, it is the first hint that mathematics can be a profession. [Official page ↗](https://www.obmep.org.br)
 2. **OBM** · Brazil — Older and more selective, open to public and private
    schools. It selects the students who represent Brazil in international
-   competitions.
+   competitions. [Official page ↗](https://www.obm.org.br)
 3. **Brazil Mathematics Teaching Prize** · Brazil — Created by IMPA and ANPMat,
    it recognizes not the student but the teacher: the best teaching practices
-   in primary and secondary schools.
+   in primary and secondary schools. [Official page ↗](https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/premio-brasil-de-ensino-de-matematica-abre-inscricoes)
 
 ## Level 2 · The first thesis
 
@@ -52,19 +52,19 @@ has earned it, and he turned the money down.
 did not exist before.*
 
 4. **CAPES Thesis Award** · Brazil — Chooses the best doctoral thesis defended
-   in the country each year in Mathematics, Probability and Statistics.
+   in the country each year in Mathematics, Probability and Statistics. [Official page ↗](https://pct.capes.gov.br)
 5. **SBM Prize** · Brazil — Awarded by the Brazilian Mathematical Society to
    the best recent original research paper by a young researcher living in
-   Brazil.
+   Brazil. [Official page ↗](https://sbm.org.br/premio-sbm/)
 6. **Ramanujan Prize (ICTP)** · International — For young researchers from
    developing countries. It is named after Srinivasa Ramanujan, the
    self-taught Indian mathematician who, in the early twentieth century, sent
    letters from Madras with formulas so strange that Cambridge mathematicians
-   could not tell whether they were genius or fraud. They were genius.
+   could not tell whether they were genius or fraud. They were genius. [Official page ↗](https://www.ictp.it/about-ictp/prizes-awards/the-ramanujan-prize.aspx)
 7. **Gutierrez Prize** · Brazil — Organized by SBM and ICMC-USP, it awards
    every year the best doctoral thesis in mathematics defended in Brazil, for
    originality and quality. It honours the Peruvian researcher Carlos Teobaldo
-   Gutierrez Vidalon (1944–2008).
+   Gutierrez Vidalon (1944–2008). [Official page ↗](https://www.icmc.usp.br)
 
 ## Level 3 · Career recognition
 
@@ -72,16 +72,16 @@ did not exist before.*
 
 8. **National Order of Scientific Merit** · Brazil — An honour granted by the
    Brazilian state to scientists with outstanding contributions to science in
-   the country.
+   the country. [Official page ↗](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2023/07/presidente-lula-e-ministra-luciana-santos-entregam-ordem-nacional-do-merito-cientifico-a-pesquisadores-e-entidades-de-ciencia-e-tecnologia)
 9. **Almirante Álvaro Alberto Prize** · Brazil — One of the most important
-   Brazilian science prizes, awarded for a lifetime of work.
+   Brazilian science prizes, awarded for a lifetime of work. [Official page ↗](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/premios/home-paaa)
 10. **Brazilian Academy of Sciences** · Brazil — Becoming a full member brings
     no money at all. It brings something rarer: the lifelong recognition of
-    one's peers.
+    one's peers. [Official page ↗](https://www.abc.org.br)
 11. **Elas na Matemática Prize** · Brazil — Created in 2024 by SBM, with IMPA
     and the Ministry of Science, it recognises Brazilian women mathematicians:
     established researchers, young researchers up to age 45, and those who
-    encourage more women to pursue mathematics.
+    encourage more women to pursue mathematics. [Official page ↗](https://sbm.org.br/wp-content/uploads/2024/06/Premio-SBM-Elas-na-Matematica-FINAL-2024.pdf)
 
 ## Level 4 · The top of the world
 
@@ -90,24 +90,24 @@ did not exist before.*
 12. **EMS Prize** · Europe — Every four years, the European Mathematical
     Society honours researchers under 35. Several Fields medallists won it
     first. In 1996, Grigori Perelman declined this prize, the first of several
-    refusals.
+    refusals. [Official page ↗](https://euromathsoc.org/ems-prizes)
 13. **Cole Prize (AMS)** · United States — From the American Mathematical
-    Society, for outstanding contributions to algebra or number theory.
+    Society, for outstanding contributions to algebra or number theory. [Official page ↗](https://www.ams.org/cole-prize-algebra)
 14. **Breakthrough Prize** · International — Created by Silicon Valley
     entrepreneurs, it pays three million dollars, the largest amount in the
     field. It is also the youngest of the major prizes, and it shows that, in
-    mathematics, money has never been the main measure of prestige.
+    mathematics, money has never been the main measure of prestige. [Official page ↗](https://breakthroughprize.org)
 15. **Wolf Prize** · Israel — Often described as one of the most prestigious
-    career prizes in the world.
+    career prizes in the world. [Official page ↗](https://wolffund.org.il/the-wolf-prize/)
 16. **Chern Medal** · International — Awarded every four years for a lifetime
-    devoted to mathematics, with no age limit.
+    devoted to mathematics, with no age limit. [Official page ↗](https://www.mathunion.org/imu-awards/chern-medal-award)
 17. **Abel Prize** · Norway — Presented by the King of Norway, it is the
     closest thing to a Nobel Prize in mathematics: it rewards a whole career,
-    with an amount comparable to the Nobel.
+    with an amount comparable to the Nobel. [Official page ↗](https://abelprize.no)
 18. **Fields Medal** · International — The most prestigious of all. Awarded
     every four years to at most four researchers, and only to those under 40.
     The Brazilian Artur Avila won it in 2014, the first Latin American to do
-    so.
+    so. [Official page ↗](https://www.mathunion.org/imu-awards/fields-medal)
 
 <details>
 <summary><b>💡 Why is there no Nobel Prize in mathematics?</b></summary>
@@ -136,6 +136,8 @@ the one every mathematician dreams of.
     - Navier–Stokes existence and smoothness
     - The Birch and Swinnerton-Dyer conjecture
 
+    [Official page ↗](https://www.claymath.org/millennium-problems/)
+
 <details>
 <summary><b>💡 And the seventh? The strangest story in modern mathematics</b></summary>
 
@@ -161,35 +163,35 @@ excellence within a single area, or a single stage of a career.*
 
 20. **Salem Prize** · International — For young researchers in harmonic
     analysis and related areas. Small in money, huge in prestige: several
-    winners later received the Fields Medal.
+    winners later received the Fields Medal. [Official page ↗](https://www.ias.edu/math/activities/salem-prize)
 21. **Ostrowski Prize** · International — Awarded every two years for an
     outstanding achievement in pure mathematics or in the foundations of
-    numerical analysis.
+    numerical analysis. [Official page ↗](https://www.ostrowski.ch/index_e.php)
 22. **Abacus Medal (IMU)** · International — For outstanding contributions to
     the mathematical aspects of information sciences, with the same age limit
     as the Fields Medal. First awarded in 2022, it replaced the Nevanlinna
-    Prize.
+    Prize. [Official page ↗](https://www.mathunion.org/imu-awards/imu-abacus-medal)
 23. **Gauss Prize (IMU)** · International — Rewards mathematics that leaked
     out of mathematics: research whose impact shows up in technology, business
-    or everyday life. Awarded since 2006.
+    or everyday life. Awarded since 2006. [Official page ↗](https://www.mathunion.org/imu-awards/carl-friedrich-gauss-prize)
 24. **Leelavati Prize** · International — It does not reward research: it
     recognizes those who bring mathematics closer to the public. Presented at
-    the closing ceremony of the International Congress of Mathematicians.
+    the closing ceremony of the International Congress of Mathematicians. [Official page ↗](https://www.mathunion.org/imu-awards/leelavati-prize)
 25. **Shaw Prize in Mathematical Sciences** · Hong Kong — Awarded every year
     since 2004, it pays 1.2 million dollars. It is one of the few very large
-    prizes awarded every year rather than every four.
+    prizes awarded every year rather than every four. [Official page ↗](https://www.shawprize.org)
 26. **Crafoord Prize** · Sweden — Created by the Royal Swedish Academy of
     Sciences to cover areas left out of the Nobel. Mathematics rotates with
-    other fields of science.
+    other fields of science. [Official page ↗](https://www.crafoordprize.se)
 27. **Kyoto Prize** · Japan — In the Basic Sciences category, mathematics
     alternates with physics, biology and the Earth sciences. One of the most
-    generous prizes in the world.
+    generous prizes in the world. [Official page ↗](https://www.kyotoprize.org/en/)
 28. **SASTRA Ramanujan Prize** · India — For researchers aged 32 or under in
     areas influenced by Ramanujan. The age limit is not random: it is the age
-    at which Ramanujan died.
+    at which Ramanujan died. [Official page ↗](https://sas.sastra.edu/ramanujan/Ramanujan-Awards.php)
 29. **De Morgan Medal** · United Kingdom — The highest honour of the London
     Mathematical Society, awarded every three years for an outstanding
-    contribution to mathematics.
+    contribution to mathematics. [Official page ↗](https://www.lms.ac.uk/prizes/lms-prize-regulations)
 
 ## Scientific societies
 
@@ -199,17 +201,17 @@ know the subject.*
 
 30. **Steele Prizes (AMS)** · United States — Three at once: one for lifetime
     achievement, one for a seminal contribution to research and, rare among
-    scientific prizes, one for mathematical exposition.
+    scientific prizes, one for mathematical exposition. [Official page ↗](https://www.ams.org/prizes)
 31. **Bôcher Prize** · United States — From the American Mathematical Society,
-    every three years, for notable work in analysis.
+    every three years, for notable work in analysis. [Official page ↗](https://www.ams.org/bocher-prize)
 32. **Veblen Prize** · United States — The counterpart of the Bôcher Prize for
-    geometry and topology.
+    geometry and topology. [Official page ↗](https://www.ams.org/veblen-prize)
 33. **Ruth Lyttle Satter Prize** · United States — Recognizes, every two years,
-    an outstanding research contribution by a woman.
+    an outstanding research contribution by a woman. [Official page ↗](https://www.ams.org/satter-prize)
 34. **Emmy Noether Lecture** · International — Neither a medal nor a cheque:
     an invitation to speak. It honours women whose work has shaped
     mathematics, and bears the name of a mathematician who taught for years
-    without a salary because she was a woman.
+    without a salary because she was a woman. [Official page ↗](https://www.mathunion.org/imu-awards/icm-emmy-noether-lecture)
 
 <details>
 <summary><b>💡 How many women have won the Fields Medal?</b></summary>
@@ -233,18 +235,18 @@ CVs of researchers in the country.*
 
 35. **CNPq Research Productivity Fellowship** · Brazil — The famous "bolsa PQ".
     It is not a prize but funding, and it works as a quality seal: it means
-    CNPq ranked the researcher among the productive ones in the field.
+    CNPq ranked the researcher among the productive ones in the field. [Official page ↗](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/bolsas-e-auxilios)
 36. **Young Scientist Prize (CNPq)** · Brazil — Rewards work by students and
-    young researchers on a different theme in each edition.
+    young researchers on a different theme in each edition. [Official page ↗](https://jovemcientista.cnpq.br/projeto/premio-jovem-cientista)
 37. **For Women in Science** · Brazil — A programme by L'Oréal with UNESCO and
     the Brazilian Academy of Sciences that grants fellowships to young
-    Brazilian women scientists, including in mathematics.
+    Brazilian women scientists, including in mathematics. [Official page ↗](https://www.loreal.com/pt-br/brazil/news/grupo/para-mulheres-na-ciencia-2026/)
 38. **Mercosur Science and Technology Prize** · South America — Brings together
     researchers from the bloc's countries in categories ranging from
-    undergraduate research to senior researcher.
+    undergraduate research to senior researcher. [Official page ↗](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/premios/home-mercosul)
 39. **TWAS Prize** · International — From The World Academy of Sciences, for
     researchers working in developing countries. Mathematics has its own
-    category.
+    category. [Official page ↗](https://twas.org/opportunity/twas-awards)
 
 ## Beyond the showcase
 
@@ -254,24 +256,24 @@ community reads exactly as it reads a medal.*
 40. **ICM speaker** · International — Being invited to speak at the
     International Congress of Mathematicians, held every four years, is one of
     the highest distinctions in the profession. Plenary speakers are very few
-    in each edition.
+    in each edition. [Official page ↗](https://www.mathunion.org/icm/icm-2026)
 41. **Member of academies and societies** · International — Fellow of the
     American Mathematical Society, member of the Royal Society or of the US
-    National Academy of Sciences. These are lifelong titles, decided by peers.
+    National Academy of Sciences. These are lifelong titles, decided by peers. [Official page ↗](https://www.ams.org/grants-awards/ams-fellows/ams-fellows)
 42. **Clay Research Fellowship and Clay Research Award** · International — From
     the same institute as the Millennium Problems. The fellowship gives years
     of complete freedom to recent PhDs; the award recognizes recent
-    breakthroughs.
+    breakthroughs. [Official page ↗](https://www.claymath.org/programs/fellows)
 43. **Sloan Research Fellowship** · United States — For early-career
-    researchers regarded as the promise of their generation.
+    researchers regarded as the promise of their generation. [Official page ↗](https://sloan.org/fellowships)
 44. **ERC Grant** · Europe — The European Research Council grants, at the
     Starting, Consolidator and Advanced levels, are among the most competitive
-    in the world and support entire research groups for years.
+    in the world and support entire research groups for years. [Official page ↗](https://erc.europa.eu)
 45. **Guggenheim Fellowship** · United States — Awarded to people who have
-    already shown exceptional achievement, from mathematics to the arts.
+    already shown exceptional achievement, from mathematics to the arts. [Official page ↗](https://www.gf.org)
 46. **MacArthur Fellowship** · United States — Nicknamed the "genius grant".
     Nobody can apply: nominations are confidential, and the recipient only
-    finds out with a phone call announcing the award.
+    finds out with a phone call announcing the award. [Official page ↗](https://www.macfound.org/programs/fellows/)
 
 <details>
 <summary><b>💡 The most famous lecture in the history of mathematics</b></summary>
