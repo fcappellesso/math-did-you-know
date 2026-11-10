@@ -38,13 +38,13 @@ conseguiu, e recusou o dinheiro.
 1. **OBMEP** · Brasil — A Olimpíada Brasileira de Matemática das Escolas
    Públicas é a maior competição do país. Premia milhares de estudantes por
    ano com medalhas e bolsas de iniciação científica. Para muitos deles, é o
-   primeiro contato com a ideia de que matemática pode ser uma profissão.
+   primeiro contato com a ideia de que matemática pode ser uma profissão. [Página oficial ↗](https://www.obmep.org.br)
 2. **OBM** · Brasil — Mais antiga e mais seletiva, aberta a escolas públicas e
    privadas. É dela que saem os estudantes que representam o Brasil nas
-   competições internacionais.
+   competições internacionais. [Página oficial ↗](https://www.obm.org.br)
 3. **Prêmio Brasil de Ensino de Matemática** · Brasil — Criado pelo IMPA e
    pela ANPMat, reconhece não o aluno, mas quem ensina: as melhores práticas
-   pedagógicas de professores da educação básica.
+   pedagógicas de professores da educação básica. [Página oficial ↗](https://www.gov.br/mec/pt-br/assuntos/noticias/2026/setembro/premio-brasil-de-ensino-de-matematica-abre-inscricoes)
 
 ## Nível 2 · A primeira tese
 
@@ -53,35 +53,35 @@ ainda não existia.*
 
 4. **Prêmio Capes de Tese** · Brasil — Escolhe a melhor tese de doutorado
    defendida no país a cada ano, na área de Matemática, Probabilidade e
-   Estatística.
+   Estatística. [Página oficial ↗](https://pct.capes.gov.br)
 5. **Prêmio SBM** · Brasil — Concedido pela Sociedade Brasileira de Matemática
    ao melhor artigo original de pesquisa publicado recentemente por um jovem
-   pesquisador residente no Brasil.
+   pesquisador residente no Brasil. [Página oficial ↗](https://sbm.org.br/premio-sbm/)
 6. **Prêmio Ramanujan (ICTP)** · Internacional — Para jovens pesquisadores de
    países em desenvolvimento. Leva o nome de Srinivasa Ramanujan, o indiano
    autodidata que, no início do século XX, mandou de Madras cartas com fórmulas
    tão estranhas que os matemáticos de Cambridge não sabiam dizer se eram
-   genialidade ou fraude. Eram genialidade.
+   genialidade ou fraude. Eram genialidade. [Página oficial ↗](https://www.ictp.it/about-ictp/prizes-awards/the-ramanujan-prize.aspx)
 7. **Prêmio Gutierrez** · Brasil — Organizado pela SBM e pelo ICMC-USP, premia
    anualmente a melhor tese de doutorado em matemática defendida no Brasil,
    considerando originalidade e qualidade. Homenageia o pesquisador peruano
-   Carlos Teobaldo Gutierrez Vidalon (1944–2008).
+   Carlos Teobaldo Gutierrez Vidalon (1944–2008). [Página oficial ↗](https://www.icmc.usp.br)
 
 ## Nível 3 · Reconhecimento de carreira
 
 *Não se ganha por um resultado, mas por décadas deles.*
 
 8. **Ordem Nacional do Mérito Científico** · Brasil — Honraria concedida pelo
-   Estado brasileiro a cientistas com contribuições notáveis à ciência do país.
+   Estado brasileiro a cientistas com contribuições notáveis à ciência do país. [Página oficial ↗](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2023/07/presidente-lula-e-ministra-luciana-santos-entregam-ordem-nacional-do-merito-cientifico-a-pesquisadores-e-entidades-de-ciencia-e-tecnologia)
 9. **Prêmio Almirante Álvaro Alberto** · Brasil — Um dos maiores prêmios
-   científicos brasileiros, concedido pelo conjunto da obra.
+   científicos brasileiros, concedido pelo conjunto da obra. [Página oficial ↗](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/premios/home-paaa)
 10. **Academia Brasileira de Ciências** · Brasil — Tornar-se membro titular
     não dá dinheiro algum. Dá algo mais raro: o reconhecimento vitalício dos
-    próprios pares.
+    próprios pares. [Página oficial ↗](https://www.abc.org.br)
 11. **Prêmio Elas na Matemática** · Brasil — Criado em 2024 pela SBM, com o
     IMPA e o MCTI, reconhece matemáticas brasileiras: pesquisadoras de carreira
     consolidada, jovens pesquisadoras de até 45 anos e quem incentiva mais
-    mulheres a seguir a matemática.
+    mulheres a seguir a matemática. [Página oficial ↗](https://sbm.org.br/wp-content/uploads/2024/06/Premio-SBM-Elas-na-Matematica-FINAL-2024.pdf)
 
 ## Nível 4 · O topo do mundo
 
@@ -90,25 +90,25 @@ ainda não existia.*
 12. **Prêmio da EMS** · Europa — A Sociedade Europeia de Matemática premia, a
     cada quatro anos, pesquisadores com menos de 35 anos. Vários ganhadores da
     Medalha Fields passaram antes por aqui. Em 1996, Grigori Perelman recusou
-    esse prêmio, a primeira de várias recusas.
+    esse prêmio, a primeira de várias recusas. [Página oficial ↗](https://euromathsoc.org/ems-prizes)
 13. **Prêmio Cole (AMS)** · Estados Unidos — Da Sociedade Americana de
     Matemática, para contribuições extraordinárias em álgebra ou em teoria dos
-    números.
+    números. [Página oficial ↗](https://www.ams.org/cole-prize-algebra)
 14. **Breakthrough Prize** · Internacional — Criado por empresários do Vale do
     Silício, paga três milhões de dólares, o maior valor da área. É também o
     mais novo dos grandes prêmios, e mostra que, na matemática, dinheiro nunca
-    foi a principal medida de prestígio.
+    foi a principal medida de prestígio. [Página oficial ↗](https://breakthroughprize.org)
 15. **Prêmio Wolf** · Israel — Frequentemente descrito como um dos prêmios de
-    carreira mais prestigiados do mundo.
+    carreira mais prestigiados do mundo. [Página oficial ↗](https://wolffund.org.il/the-wolf-prize/)
 16. **Medalha Chern** · Internacional — Entregue a cada quatro anos a quem
-    dedicou a vida inteira à matemática, sem limite de idade.
+    dedicou a vida inteira à matemática, sem limite de idade. [Página oficial ↗](https://www.mathunion.org/imu-awards/chern-medal-award)
 17. **Prêmio Abel** · Noruega — Entregue pelo Rei da Noruega, é o mais próximo
     que existe de um Nobel de matemática: premia o conjunto da carreira, com
-    valor comparável ao do Nobel.
+    valor comparável ao do Nobel. [Página oficial ↗](https://abelprize.no)
 18. **Medalha Fields** · Internacional — A mais prestigiada de todas. Concedida
     a cada quatro anos a, no máximo, quatro pesquisadores, e só a quem tem até
     40 anos. O brasileiro Artur Avila a venceu em 2014, o primeiro
-    latino-americano a conseguir.
+    latino-americano a conseguir. [Página oficial ↗](https://www.mathunion.org/imu-awards/fields-medal)
 
 <details>
 <summary><b>💡 Por que não existe um Nobel de Matemática?</b></summary>
@@ -137,6 +137,8 @@ todo matemático sonha em receber.
     - Existência e regularidade de Navier–Stokes
     - Conjectura de Birch e Swinnerton-Dyer
 
+    [Página oficial ↗](https://www.claymath.org/millennium-problems/)
+
 <details>
 <summary><b>💡 E o sétimo? A história mais estranha da matemática moderna</b></summary>
 
@@ -161,35 +163,35 @@ excelência dentro de uma única área, ou numa única fase da carreira.*
 
 20. **Prêmio Salem** · Internacional — Para jovens pesquisadores em análise
     harmônica e áreas próximas. Pequeno em dinheiro, enorme em prestígio:
-    vários ganhadores receberam depois a Medalha Fields.
+    vários ganhadores receberam depois a Medalha Fields. [Página oficial ↗](https://www.ias.edu/math/activities/salem-prize)
 21. **Prêmio Ostrowski** · Internacional — Concedido a cada dois anos a uma
     realização excepcional em matemática pura ou nos fundamentos da análise
-    numérica.
+    numérica. [Página oficial ↗](https://www.ostrowski.ch/index_e.php)
 22. **Medalha Abacus (IMU)** · Internacional — Para contribuições notáveis nos
     aspectos matemáticos da ciência da informação, com o mesmo limite de idade
     da Fields. Entregue pela primeira vez em 2022, substituiu o antigo Prêmio
-    Nevanlinna.
+    Nevanlinna. [Página oficial ↗](https://www.mathunion.org/imu-awards/imu-abacus-medal)
 23. **Prêmio Gauss (IMU)** · Internacional — Premia a matemática que vazou para
     fora da matemática: pesquisa cujo impacto aparece na tecnologia, nos
-    negócios ou na vida cotidiana. Existe desde 2006.
+    negócios ou na vida cotidiana. Existe desde 2006. [Página oficial ↗](https://www.mathunion.org/imu-awards/carl-friedrich-gauss-prize)
 24. **Prêmio Leelavati** · Internacional — Não premia pesquisa: reconhece quem
     consegue aproximar a matemática do público. Entregue na cerimônia de
-    encerramento do Congresso Internacional de Matemáticos.
+    encerramento do Congresso Internacional de Matemáticos. [Página oficial ↗](https://www.mathunion.org/imu-awards/leelavati-prize)
 25. **Prêmio Shaw em Ciências Matemáticas** · Hong Kong — Anual desde 2004,
     paga 1,2 milhão de dólares. É um dos poucos prêmios de altíssimo valor
-    entregues todo ano, e não a cada quatro.
+    entregues todo ano, e não a cada quatro. [Página oficial ↗](https://www.shawprize.org)
 26. **Prêmio Crafoord** · Suécia — Criado pela Academia Real Sueca de Ciências
     para cobrir áreas que o Nobel deixou de fora. A matemática entra num
-    rodízio com outras áreas da ciência.
+    rodízio com outras áreas da ciência. [Página oficial ↗](https://www.crafoordprize.se)
 27. **Prêmio Kyoto** · Japão — Na categoria de Ciências Básicas, a matemática
     se alterna com a física, a biologia e as ciências da Terra. Um dos prêmios
-    mais generosos do mundo.
+    mais generosos do mundo. [Página oficial ↗](https://www.kyotoprize.org/en/)
 28. **SASTRA Ramanujan Prize** · Índia — Para pesquisadores de até 32 anos em
     áreas influenciadas por Ramanujan. O limite de idade não é aleatório: é a
-    idade com que Ramanujan morreu.
+    idade com que Ramanujan morreu. [Página oficial ↗](https://sas.sastra.edu/ramanujan/Ramanujan-Awards.php)
 29. **Medalha De Morgan** · Reino Unido — A maior honraria da London
     Mathematical Society, entregue a cada três anos pelo conjunto da
-    contribuição à matemática.
+    contribuição à matemática. [Página oficial ↗](https://www.lms.ac.uk/prizes/lms-prize-regulations)
 
 ## As sociedades científicas
 
@@ -199,17 +201,17 @@ dão algo que não se compra: a aprovação de quem entende do assunto.*
 30. **Prêmios Steele (AMS)** · Estados Unidos — São três de uma vez: um pelo
     conjunto da obra, um por uma contribuição que mudou o rumo de uma área e,
     raridade entre prêmios científicos, um para quem escreve bem sobre
-    matemática.
+    matemática. [Página oficial ↗](https://www.ams.org/prizes)
 31. **Prêmio Bôcher** · Estados Unidos — Da Sociedade Americana de Matemática,
-    a cada três anos, para trabalhos notáveis em análise.
+    a cada três anos, para trabalhos notáveis em análise. [Página oficial ↗](https://www.ams.org/bocher-prize)
 32. **Prêmio Veblen** · Estados Unidos — O equivalente do Bôcher para
-    geometria e topologia.
+    geometria e topologia. [Página oficial ↗](https://www.ams.org/veblen-prize)
 33. **Prêmio Ruth Lyttle Satter** · Estados Unidos — Reconhece, a cada dois
-    anos, uma contribuição excepcional em pesquisa feita por uma mulher.
+    anos, uma contribuição excepcional em pesquisa feita por uma mulher. [Página oficial ↗](https://www.ams.org/satter-prize)
 34. **Palestra Emmy Noether** · Internacional — Não é medalha nem cheque: é um
     convite para falar. A conferência homenageia matemáticas cujo trabalho
     marcou a área, e leva o nome de quem passou anos dando aulas sem salário
-    por ser mulher.
+    por ser mulher. [Página oficial ↗](https://www.mathunion.org/imu-awards/icm-emmy-noether-lecture)
 
 <details>
 <summary><b>💡 Quantas mulheres já ganharam a Medalha Fields?</b></summary>
@@ -234,19 +236,19 @@ frequência no currículo de quem pesquisa no país.*
 35. **Bolsa de Produtividade em Pesquisa (CNPq)** · Brasil — A famosa "bolsa
     PQ". Não é prêmio, é financiamento, mas funciona como um selo de
     qualidade: significa que o CNPq classificou o pesquisador entre os
-    produtivos da área.
+    produtivos da área. [Página oficial ↗](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/bolsas-e-auxilios)
 36. **Prêmio Jovem Cientista (CNPq)** · Brasil — Premia trabalhos de
     estudantes e jovens pesquisadores em torno de um tema diferente a cada
-    edição.
+    edição. [Página oficial ↗](https://jovemcientista.cnpq.br/projeto/premio-jovem-cientista)
 37. **Para Mulheres na Ciência** · Brasil — Programa da L'Oréal com a UNESCO e
     a Academia Brasileira de Ciências, que concede bolsas a jovens cientistas
-    brasileiras, incluindo a área de matemática.
+    brasileiras, incluindo a área de matemática. [Página oficial ↗](https://www.loreal.com/pt-br/brazil/news/grupo/para-mulheres-na-ciencia-2026/)
 38. **Prêmio Mercosul de Ciência e Tecnologia** · América do Sul — Reúne
     pesquisadores dos países do bloco em categorias que vão da iniciação
-    científica ao pesquisador sênior.
+    científica ao pesquisador sênior. [Página oficial ↗](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/premios/home-mercosul)
 39. **Prêmio TWAS** · Internacional — Da Academia Mundial de Ciências, para
     pesquisadores que trabalham em países em desenvolvimento. A matemática tem
-    categoria própria.
+    categoria própria. [Página oficial ↗](https://twas.org/opportunity/twas-awards)
 
 ## Fora da vitrine
 
@@ -256,24 +258,24 @@ financiamentos que a comunidade lê exatamente como lê uma medalha.*
 40. **Palestrante no ICM** · Internacional — Ser convidado a falar no Congresso
     Internacional de Matemáticos, que acontece a cada quatro anos, é uma das
     maiores distinções da profissão. Os palestrantes plenários são
-    pouquíssimos por edição.
+    pouquíssimos por edição. [Página oficial ↗](https://www.mathunion.org/icm/icm-2026)
 41. **Membro de academias e sociedades** · Internacional — Fellow da American
     Mathematical Society, membro da Royal Society ou da Academia Nacional de
     Ciências dos Estados Unidos. São títulos vitalícios, decididos pelos
-    próprios pares.
+    próprios pares. [Página oficial ↗](https://www.ams.org/grants-awards/ams-fellows/ams-fellows)
 42. **Clay Research Fellowship e Clay Research Award** · Internacional — Do
     mesmo instituto dos Problemas do Milênio. A bolsa dá anos de liberdade
-    total a quem acabou de se doutorar; o prêmio reconhece avanços recentes.
+    total a quem acabou de se doutorar; o prêmio reconhece avanços recentes. [Página oficial ↗](https://www.claymath.org/programs/fellows)
 43. **Sloan Research Fellowship** · Estados Unidos — Para pesquisadores em
-    início de carreira apontados como as promessas da geração.
+    início de carreira apontados como as promessas da geração. [Página oficial ↗](https://sloan.org/fellowships)
 44. **ERC Grant** · Europa — Os financiamentos do Conselho Europeu de Pesquisa,
     nas faixas Starting, Consolidator e Advanced, estão entre os mais
-    disputados do mundo e sustentam grupos inteiros por anos.
+    disputados do mundo e sustentam grupos inteiros por anos. [Página oficial ↗](https://erc.europa.eu)
 45. **Guggenheim Fellowship** · Estados Unidos — Bolsa concedida a quem já
-    demonstrou realizações excepcionais, da matemática às artes.
+    demonstrou realizações excepcionais, da matemática às artes. [Página oficial ↗](https://www.gf.org)
 46. **MacArthur Fellowship** · Estados Unidos — Apelidada de "bolsa dos
     gênios". Ninguém pode se candidatar: as indicações são confidenciais, e a
-    pessoa só fica sabendo quando recebe o telefonema avisando que ganhou.
+    pessoa só fica sabendo quando recebe o telefonema avisando que ganhou. [Página oficial ↗](https://www.macfound.org/programs/fellows/)
 
 <details>
 <summary><b>💡 A palestra mais famosa da história da matemática</b></summary>
