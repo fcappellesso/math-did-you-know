@@ -8,7 +8,7 @@
 
 Nella matematica esiste una scala invisibile. Comincia con una gara che si
 svolge in migliaia di scuole pubbliche brasiliane e finisce con sette problemi
-che nessuno sa risolvere. Lungo il percorso ci sono quarantasei premi, medaglie
+che nessuno sa risolvere. Lungo il percorso ci sono premi, medaglie
 e riconoscimenti, e ogni gradino costa di solito anni di lavoro.
 
 Uno di essi vale un milione di dollari. Dal 2000, una sola persona al mondo
@@ -86,28 +86,34 @@ prima non esisteva.*
     ricercatrici affermate, giovani ricercatrici fino a 45 anni e chi
     incoraggia più donne a scegliere la matematica.
 
+12. **[Premio Donne e Scienza (CNPq)](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/premios)** · Brasile — Assegnato dal CNPq,
+    il consiglio nazionale della ricerca brasiliano, e giunto alla 3ª edizione
+    nel 2026, riconosce le scienziate brasiliane di tutte le aree, matematica
+    compresa, in diverse fasi della carriera, e le istituzioni che promuovono
+    la parità di genere nella scienza.
+
 ## Livello 4 · La vetta del mondo
 
 *Da qui in poi, i nomi stanno tutti su un foglio di carta.*
 
-12. **[Premio EMS](https://euromathsoc.org/ems-prizes)** · Europa — Ogni quattro anni la Società Matematica Europea
+13. **[Premio EMS](https://euromathsoc.org/ems-prizes)** · Europa — Ogni quattro anni la Società Matematica Europea
     premia ricercatori con meno di 35 anni. Diversi vincitori della Medaglia
     Fields sono passati prima di qui. Nel 1996 Grigori Perelman rifiutò questo
     premio, il primo di vari rifiuti.
-13. **[Premio Cole (AMS)](https://www.ams.org/cole-prize-algebra)** · Stati Uniti — Della Società Matematica Americana,
+14. **[Premio Cole (AMS)](https://www.ams.org/cole-prize-algebra)** · Stati Uniti — Della Società Matematica Americana,
     per contributi straordinari all'algebra o alla teoria dei numeri.
-14. **[Breakthrough Prize](https://breakthroughprize.org)** · Internazionale — Creato da imprenditori della
+15. **[Breakthrough Prize](https://breakthroughprize.org)** · Internazionale — Creato da imprenditori della
     Silicon Valley, vale tre milioni di dollari, la cifra più alta del settore.
     È anche il più giovane dei grandi premi, e mostra che in matematica il
     denaro non è mai stato la principale misura del prestigio.
-15. **[Premio Wolf](https://wolffund.org.il/the-wolf-prize/)** · Israele — Spesso descritto come uno dei premi alla
+16. **[Premio Wolf](https://wolffund.org.il/the-wolf-prize/)** · Israele — Spesso descritto come uno dei premi alla
     carriera più prestigiosi del mondo.
-16. **[Medaglia Chern](https://www.mathunion.org/imu-awards/chern-medal-award)** · Internazionale — Assegnata ogni quattro anni a chi ha
+17. **[Medaglia Chern](https://www.mathunion.org/imu-awards/chern-medal-award)** · Internazionale — Assegnata ogni quattro anni a chi ha
     dedicato tutta la vita alla matematica, senza limiti di età.
-17. **[Premio Abel](https://abelprize.no)** · Norvegia — Consegnato dal Re di Norvegia, è quanto di più
+18. **[Premio Abel](https://abelprize.no)** · Norvegia — Consegnato dal Re di Norvegia, è quanto di più
     vicino esista a un Nobel per la matematica: premia l'intera carriera, con un
     importo paragonabile a quello del Nobel.
-18. **[Medaglia Fields](https://www.mathunion.org/imu-awards/fields-medal)** · Internazionale — La più prestigiosa di tutte.
+19. **[Medaglia Fields](https://www.mathunion.org/imu-awards/fields-medal)** · Internazionale — La più prestigiosa di tutte.
     Assegnata ogni quattro anni a non più di quattro ricercatori, e solo a chi
     ha meno di 40 anni. Il brasiliano Artur Avila l'ha vinta nel 2014, primo
     latinoamericano a riuscirci.
@@ -129,7 +135,7 @@ matematico sogna di ricevere.
 
 ## Livello 5 · I Problemi del Millennio
 
-19. **[Premio del Millennio (Clay Mathematics Institute)](https://www.claymath.org/millennium-problems/)** · Internazionale — Nel
+20. **[Premio del Millennio (Clay Mathematics Institute)](https://www.claymath.org/millennium-problems/)** · Internazionale — Nel
     2000 l'istituto scelse sette problemi aperti e offrì un milione di dollari
     per ciascuna soluzione. Ancora oggi, sei restano irrisolti:
     - P contro NP
@@ -161,35 +167,35 @@ inferiore al suo, e che prendersi da solo la gloria gli sembrava ingiusto.
 *Fuori dalla scala principale esiste un circuito parallelo: premi che cercano
 l'eccellenza in un'unica area, o in un'unica fase della carriera.*
 
-20. **[Premio Salem](https://www.ias.edu/math/activities/salem-prize)** · Internazionale — Per giovani ricercatori in analisi
+21. **[Premio Salem](https://www.ias.edu/math/activities/salem-prize)** · Internazionale — Per giovani ricercatori in analisi
     armonica e aree vicine. Piccolo nell'importo, enorme nel prestigio: diversi
     vincitori hanno poi ricevuto la Medaglia Fields.
-21. **[Premio Ostrowski](https://www.ostrowski.ch/index_e.php)** · Internazionale — Assegnato ogni due anni per un
+22. **[Premio Ostrowski](https://www.ostrowski.ch/index_e.php)** · Internazionale — Assegnato ogni due anni per un
     risultato eccezionale in matematica pura o nei fondamenti dell'analisi
     numerica.
-22. **[Medaglia Abacus (IMU)](https://www.mathunion.org/imu-awards/imu-abacus-medal)** · Internazionale — Per contributi eccezionali
+23. **[Medaglia Abacus (IMU)](https://www.mathunion.org/imu-awards/imu-abacus-medal)** · Internazionale — Per contributi eccezionali
     agli aspetti matematici delle scienze dell'informazione, con lo stesso
     limite di età della Fields. Assegnata per la prima volta nel 2022, ha
     sostituito il Premio Nevanlinna.
-23. **[Premio Gauss (IMU)](https://www.mathunion.org/imu-awards/carl-friedrich-gauss-prize)** · Internazionale — Premia la matematica che esce
+24. **[Premio Gauss (IMU)](https://www.mathunion.org/imu-awards/carl-friedrich-gauss-prize)** · Internazionale — Premia la matematica che esce
     dalla matematica: ricerche il cui impatto si vede nella tecnologia,
     nell'economia o nella vita quotidiana. Esiste dal 2006.
-24. **[Premio Leelavati](https://www.mathunion.org/imu-awards/leelavati-prize)** · Internazionale — Non premia la ricerca: riconosce chi
+25. **[Premio Leelavati](https://www.mathunion.org/imu-awards/leelavati-prize)** · Internazionale — Non premia la ricerca: riconosce chi
     sa avvicinare la matematica al pubblico. Viene consegnato durante la
     cerimonia di chiusura del Congresso Internazionale dei Matematici.
-25. **[Premio Shaw per le Scienze Matematiche](https://www.shawprize.org)** · Hong Kong — Annuale dal 2004,
+26. **[Premio Shaw per le Scienze Matematiche](https://www.shawprize.org)** · Hong Kong — Annuale dal 2004,
     vale 1,2 milioni di dollari. È uno dei pochi premi di altissimo valore
     assegnati ogni anno, e non ogni quattro.
-26. **[Premio Crafoord](https://www.crafoordprize.se)** · Svezia — Creato dall'Accademia Reale Svedese delle
+27. **[Premio Crafoord](https://www.crafoordprize.se)** · Svezia — Creato dall'Accademia Reale Svedese delle
     Scienze per coprire aree escluse dal Nobel. La matematica si alterna con
     altri settori della scienza.
-27. **[Premio Kyoto](https://www.kyotoprize.org/en/)** · Giappone — Nella categoria Scienze di Base, la
+28. **[Premio Kyoto](https://www.kyotoprize.org/en/)** · Giappone — Nella categoria Scienze di Base, la
     matematica si alterna con la fisica, la biologia e le scienze della Terra.
     Uno dei premi più generosi del mondo.
-28. **[SASTRA Ramanujan Prize](https://sas.sastra.edu/ramanujan/Ramanujan-Awards.php)** · India — Per ricercatori fino a 32 anni in
+29. **[SASTRA Ramanujan Prize](https://sas.sastra.edu/ramanujan/Ramanujan-Awards.php)** · India — Per ricercatori fino a 32 anni in
     aree influenzate da Ramanujan. Il limite di età non è casuale: è l'età in
     cui morì Ramanujan.
-29. **[Medaglia De Morgan](https://www.lms.ac.uk/prizes/lms-prize-regulations)** · Regno Unito — La massima onorificenza della London
+30. **[Medaglia De Morgan](https://www.lms.ac.uk/prizes/lms-prize-regulations)** · Regno Unito — La massima onorificenza della London
     Mathematical Society, assegnata ogni tre anni per l'insieme del contributo
     alla matematica.
 
@@ -198,16 +204,16 @@ l'eccellenza in un'unica area, o in un'unica fase della carriera.*
 *Premi assegnati dalle stesse comunità di ricerca. Non danno fortune; danno
 qualcosa che non si compra: l'approvazione di chi conosce la materia.*
 
-30. **[Premi Steele (AMS)](https://www.ams.org/prizes)** · Stati Uniti — Sono tre in uno: uno alla carriera,
+31. **[Premi Steele (AMS)](https://www.ams.org/prizes)** · Stati Uniti — Sono tre in uno: uno alla carriera,
     uno per un contributo che ha cambiato la direzione di un'area e, cosa rara
     tra i premi scientifici, uno per chi scrive bene di matematica.
-31. **[Premio Bôcher](https://www.ams.org/bocher-prize)** · Stati Uniti — Della Società Matematica Americana, ogni
+32. **[Premio Bôcher](https://www.ams.org/bocher-prize)** · Stati Uniti — Della Società Matematica Americana, ogni
     tre anni, per lavori notevoli in analisi.
-32. **[Premio Veblen](https://www.ams.org/veblen-prize)** · Stati Uniti — L'equivalente del Bôcher per la
+33. **[Premio Veblen](https://www.ams.org/veblen-prize)** · Stati Uniti — L'equivalente del Bôcher per la
     geometria e la topologia.
-33. **[Premio Ruth Lyttle Satter](https://www.ams.org/satter-prize)** · Stati Uniti — Riconosce, ogni due anni, un
+34. **[Premio Ruth Lyttle Satter](https://www.ams.org/satter-prize)** · Stati Uniti — Riconosce, ogni due anni, un
     contributo eccezionale alla ricerca da parte di una donna.
-34. **[Conferenza Emmy Noether](https://www.mathunion.org/imu-awards/icm-emmy-noether-lecture)** · Internazionale — Non è una medaglia né un
+35. **[Conferenza Emmy Noether](https://www.mathunion.org/imu-awards/icm-emmy-noether-lecture)** · Internazionale — Non è una medaglia né un
     assegno: è un invito a parlare. Rende omaggio a matematiche il cui lavoro ha
     segnato la disciplina, e porta il nome di chi per anni insegnò senza
     stipendio perché donna.
@@ -232,19 +238,19 @@ Prize.
 *Comprendono anche alcuni non esclusivi della matematica, ma che compaiono
 spesso nel curriculum di chi fa ricerca nel paese.*
 
-35. **[Borsa di Produttività nella Ricerca (CNPq)](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/bolsas-e-auxilios)** · Brasile — La famosa "bolsa
+36. **[Borsa di Produttività nella Ricerca (CNPq)](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/bolsas-e-auxilios)** · Brasile — La famosa "bolsa
     PQ". Non è un premio ma un finanziamento, e funziona come un marchio di
     qualità: significa che il CNPq ha classificato il ricercatore tra i più
     produttivi del settore.
-36. **[Premio Giovane Scienziato (CNPq)](https://jovemcientista.cnpq.br/projeto/premio-jovem-cientista)** · Brasile — Premia lavori di studenti
+37. **[Premio Giovane Scienziato (CNPq)](https://jovemcientista.cnpq.br/projeto/premio-jovem-cientista)** · Brasile — Premia lavori di studenti
     e giovani ricercatori su un tema diverso a ogni edizione.
-37. **[Per le Donne nella Scienza](https://www.loreal.com/pt-br/brazil/news/grupo/para-mulheres-na-ciencia-2026/)** · Brasile — Programma de L'Oréal con
+38. **[Per le Donne nella Scienza](https://www.loreal.com/pt-br/brazil/news/grupo/para-mulheres-na-ciencia-2026/)** · Brasile — Programma de L'Oréal con
     l'UNESCO e l'Accademia Brasiliana delle Scienze, che assegna borse a giovani
     scienziate brasiliane, anche nell'area della matematica.
-38. **[Premio Mercosur di Scienza e Tecnologia](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/premios/home-mercosul)** · America del Sud — Riunisce
+39. **[Premio Mercosur di Scienza e Tecnologia](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/premios/home-mercosul)** · America del Sud — Riunisce
     ricercatori dei paesi del blocco in categorie che vanno dall'iniziazione
     alla ricerca al ricercatore senior.
-39. **[Premio TWAS](https://twas.org/opportunity/twas-awards)** · Internazionale — Dell'Accademia Mondiale delle Scienze,
+40. **[Premio TWAS](https://twas.org/opportunity/twas-awards)** · Internazionale — Dell'Accademia Mondiale delle Scienze,
     per ricercatori che lavorano nei paesi in via di sviluppo. La matematica ha
     una categoria propria.
 
@@ -253,25 +259,25 @@ spesso nel curriculum di chi fa ricerca nel paese.*
 *Non sono premi, ma valgono oro nel curriculum: inviti, titoli e finanziamenti
 che la comunità legge esattamente come una medaglia.*
 
-40. **[Relatore all'ICM](https://www.mathunion.org/icm/icm-2026)** · Internazionale — Essere invitati a parlare al
+41. **[Relatore all'ICM](https://www.mathunion.org/icm/icm-2026)** · Internazionale — Essere invitati a parlare al
     Congresso Internazionale dei Matematici, che si tiene ogni quattro anni, è
     una delle massime distinzioni della professione. I relatori plenari sono
     pochissimi a ogni edizione.
-41. **[Membro di accademie e società](https://www.ams.org/grants-awards/ams-fellows/ams-fellows)** · Internazionale — Fellow dell'American
+42. **[Membro di accademie e società](https://www.ams.org/grants-awards/ams-fellows/ams-fellows)** · Internazionale — Fellow dell'American
     Mathematical Society, membro della Royal Society o dell'Accademia Nazionale
     delle Scienze degli Stati Uniti. Sono titoli a vita, decisi dai pari.
-42. **[Clay Research Fellowship e Clay Research Award](https://www.claymath.org/programs/fellows)** · Internazionale — Dello
+43. **[Clay Research Fellowship e Clay Research Award](https://www.claymath.org/programs/fellows)** · Internazionale — Dello
     stesso istituto dei Problemi del Millennio. La borsa offre anni di piena
     libertà a chi ha appena conseguito il dottorato; il premio riconosce
     progressi recenti.
-43. **[Sloan Research Fellowship](https://sloan.org/fellowships)** · Stati Uniti — Per ricercatori a inizio
+44. **[Sloan Research Fellowship](https://sloan.org/fellowships)** · Stati Uniti — Per ricercatori a inizio
     carriera considerati le promesse della loro generazione.
-44. **[ERC Grant](https://erc.europa.eu)** · Europa — I finanziamenti del Consiglio Europeo della
+45. **[ERC Grant](https://erc.europa.eu)** · Europa — I finanziamenti del Consiglio Europeo della
     Ricerca, nei livelli Starting, Consolidator e Advanced, sono tra i più
     competitivi al mondo e sostengono interi gruppi di ricerca per anni.
-45. **[Guggenheim Fellowship](https://www.gf.org)** · Stati Uniti — Borsa assegnata a chi ha già
+46. **[Guggenheim Fellowship](https://www.gf.org)** · Stati Uniti — Borsa assegnata a chi ha già
     dimostrato risultati eccezionali, dalla matematica alle arti.
-46. **[MacArthur Fellowship](https://www.macfound.org/programs/fellows/)** · Stati Uniti — Soprannominata "borsa dei geni".
+47. **[MacArthur Fellowship](https://www.macfound.org/programs/fellows/)** · Stati Uniti — Soprannominata "borsa dei geni".
     Nessuno può candidarsi: le segnalazioni sono riservate, e la persona lo
     scopre solo con una telefonata che le annuncia il premio.
 

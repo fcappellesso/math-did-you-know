@@ -10,7 +10,7 @@ ogni matematico sogna. La matematica è piena di storie che pochi conoscono.
 - 🏅 **[Quarantasei gradini verso il quasi impossibile](PREMI.it.md)** — premi
   e riconoscimenti in matematica, dalle olimpiadi scolastiche brasiliane alla
   Medaglia Fields e ai Problemi del Millennio, con curiosità lungo il percorso.
-- 📚 **[Tesi affidabili](TESI.it.md)** — 49 consigli per trovare tesi gratis e
+- 📚 **[Tesi affidabili](TESI.it.md)** — Consigli per trovare tesi gratis e
   nel rispetto della legge: in Brasile, in America Latina e nel mondo.
 - 🧭 **[Dove i matematici leggono, chiedono e pubblicano](#dove-i-matematici-leggono-chiedono-e-pubblicano)**
   — banche dati, riviste, blog, società e comunità: che cos'è ciascuno, se
@@ -46,7 +46,7 @@ su dove discutere di Medicina Tradizionale Cinese.
 13. [Comunità di Stack Exchange](#13-comunità-di-stack-exchange)
 14. [Per chi fa ricerca in Brasile](#14-per-chi-fa-ricerca-in-brasile)
 15. [Medicina Tradizionale Cinese](#15-medicina-tradizionale-cinese)
-16. 📚 [Tesi affidabili](TESI.it.md) *(pagina a parte: 49 consigli da fonti ufficiali)*
+16. 📚 [Tesi affidabili](TESI.it.md) *(pagina a parte: consigli da fonti ufficiali)*
 
 ---
 
@@ -268,6 +268,7 @@ in ciascuna comunità.
 | [SBM](https://sbm.org.br) — Società Brasiliana di Matematica | La società matematica nazionale. | 💳 | Gli iscritti hanno sconti su convegni e libri. |
 | [SBMAC](https://www.sbmac.org.br) — Società Brasiliana di Matematica Applicata e Computazionale | Organizza il CNMAC, il congresso annuale di matematica applicata. | 💳 | Iscrizione con sconto per studenti. |
 | [CAPES](https://www.gov.br/capes) e [CNPq](https://www.gov.br/cnpq) | Le agenzie federali di finanziamento (borse di studio e bandi). | 👤 | Registrazione tramite Lattes e i sistemi di ciascun bando. |
+| [DAAD](https://www.daad.de/en/) — Servizio Tedesco per lo Scambio Accademico | Borse e programmi per studiare e fare ricerca in Germania, in tutte le aree, matematica compresa, per dottorandi e dottori di ricerca. | 👤 | Cerca nella [banca dati delle borse del DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/), filtrando per paese e livello. I [DAAD Research Ambassadors](https://www.daad.org/en/about-us/network/research-ambassadors/), professori volontari nelle università della regione, orientano chi è interessato. |
 
 ---
 
