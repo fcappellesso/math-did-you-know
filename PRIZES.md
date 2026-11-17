@@ -4,7 +4,7 @@
 
 # 💡 Did you know?
 
-## Forty-six steps to the almost impossible
+## Steps to the almost impossible
 
 There is an invisible ladder in mathematics. It begins with an exam taken in
 thousands of Brazilian public schools and ends with seven problems that no one

@@ -7,7 +7,7 @@ Teses do mundo inteiro que qualquer pessoa pode ler de graça e dentro da lei.
 Uma medalha de cerca de quinze mil dólares canadenses com a qual todo
 matemático sonha. A matemática está cheia de histórias que pouca gente conhece.
 
-- 🏅 **[Quarenta e seis degraus até o quase impossível](PREMIOS.pt-BR.md)** —
+- 🏅 **[Degraus até o quase impossível](PREMIOS.pt-BR.md)** —
   prêmios e reconhecimentos em matemática, das olimpíadas escolares
   brasileiras à Medalha Fields e aos Problemas do Milênio, com curiosidades
   pelo caminho.

@@ -4,7 +4,7 @@
 
 # 💡 Você sabia?
 
-## Quarenta e seis degraus até o quase impossível
+## Degraus até o quase impossível
 
 Existe uma escada invisível na matemática. Ela começa numa prova aplicada em
 milhares de escolas públicas brasileiras e termina em sete problemas que

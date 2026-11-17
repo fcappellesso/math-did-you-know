@@ -7,7 +7,7 @@ Theses from all over the world that anyone can read for free and legally. A
 medal worth about fifteen thousand Canadian dollars that every mathematician
 dreams of. Mathematics is full of stories that few people know.
 
-- 🏅 **[Forty-six steps to the almost impossible](PRIZES.md)** — prizes and
+- 🏅 **[Steps to the almost impossible](PRIZES.md)** — prizes and
   honours in mathematics, from Brazilian school olympiads to the Fields Medal
   and the Millennium Prize Problems, with curiosities along the way.
 - 📚 **[Reliable theses and dissertations](THESES.md)** — Tips to find

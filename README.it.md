@@ -7,7 +7,7 @@ rifiutato. Tesi di tutto il mondo che chiunque può leggere gratis e nel
 rispetto della legge. Una medaglia da circa quindicimila dollari canadesi che
 ogni matematico sogna. La matematica è piena di storie che pochi conoscono.
 
-- 🏅 **[Quarantasei gradini verso il quasi impossibile](PREMI.it.md)** — premi
+- 🏅 **[Gradini verso il quasi impossibile](PREMI.it.md)** — premi
   e riconoscimenti in matematica, dalle olimpiadi scolastiche brasiliane alla
   Medaglia Fields e ai Problemi del Millennio, con curiosità lungo il percorso.
 - 📚 **[Tesi affidabili](TESI.it.md)** — Consigli per trovare tesi gratis e

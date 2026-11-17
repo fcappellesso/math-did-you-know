@@ -4,7 +4,7 @@
 
 # 💡 Lo sapevi?
 
-## Quarantasei gradini verso il quasi impossibile
+## Gradini verso il quasi impossibile
 
 Nella matematica esiste una scala invisibile. Comincia con una gara che si
 svolge in migliaia di scuole pubbliche brasiliane e finisce con sette problemi
