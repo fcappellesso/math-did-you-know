@@ -11,7 +11,7 @@ matemático sonha. A matemática está cheia de histórias que pouca gente conhe
   prêmios e reconhecimentos em matemática, das olimpíadas escolares
   brasileiras à Medalha Fields e aos Problemas do Milênio, com curiosidades
   pelo caminho.
-- 📚 **[Dissertações e teses confiáveis](TESES.pt-BR.md)** — 49 dicas para
+- 📚 **[Dissertações e teses confiáveis](TESES.pt-BR.md)** — Dicas para
   encontrar teses de graça e dentro da lei: no Brasil, na América Latina e no
   mundo.
 - 🧭 **[Onde os matemáticos leem, perguntam e publicam](#onde-os-matemáticos-leem-perguntam-e-publicam)**
@@ -48,7 +48,7 @@ discutir Medicina Tradicional Chinesa.
 13. [Comunidades do Stack Exchange](#13-comunidades-do-stack-exchange)
 14. [Para quem pesquisa no Brasil](#14-para-quem-pesquisa-no-brasil)
 15. [Medicina Tradicional Chinesa](#15-medicina-tradicional-chinesa)
-16. 📚 [Dissertações e teses confiáveis](TESES.pt-BR.md) *(página à parte: 49 dicas de fontes oficiais)*
+16. 📚 [Dissertações e teses confiáveis](TESES.pt-BR.md) *(página à parte: dicas de fontes oficiais)*
 
 ---
 
@@ -269,6 +269,7 @@ cada comunidade.
 | [SBM](https://sbm.org.br) — Sociedade Brasileira de Matemática | A sociedade brasileira de matemática. | 💳 | Sócios têm desconto em eventos e livros. |
 | [SBMAC](https://www.sbmac.org.br) — Sociedade Brasileira de Matemática Aplicada e Computacional | Organiza o CNMAC, o congresso anual de matemática aplicada. | 💳 | Anuidade com desconto para estudantes. |
 | [CAPES](https://www.gov.br/capes) e [CNPq](https://www.gov.br/cnpq) | As agências federais de fomento (bolsas e editais). | 👤 | Cadastro pelo Lattes e pelos sistemas de cada edital. |
+| [DAAD](https://www.daad.de/en/) — Serviço Alemão de Intercâmbio Acadêmico | Bolsas e programas para estudar e pesquisar na Alemanha, em todas as áreas, inclusive matemática, para doutorandos e doutores. | 👤 | Procure na [base de bolsas do DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/), filtrando por país e nível. Os [DAAD Research Ambassadors](https://www.daad.org/en/about-us/network/research-ambassadors/), professores voluntários em universidades da região, orientam quem tem interesse. |
 
 ---
 

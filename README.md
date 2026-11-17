@@ -10,7 +10,7 @@ dreams of. Mathematics is full of stories that few people know.
 - 🏅 **[Forty-six steps to the almost impossible](PRIZES.md)** — prizes and
   honours in mathematics, from Brazilian school olympiads to the Fields Medal
   and the Millennium Prize Problems, with curiosities along the way.
-- 📚 **[Reliable theses and dissertations](THESES.md)** — 49 tips to find
+- 📚 **[Reliable theses and dissertations](THESES.md)** — Tips to find
   theses for free and legally: in Brazil, in Latin America and around the
   world.
 - 🧭 **[Where mathematicians read, ask and publish](#where-mathematicians-read-ask-and-publish)**
@@ -47,7 +47,7 @@ where to discuss Traditional Chinese Medicine.
 13. [Stack Exchange communities](#13-stack-exchange-communities)
 14. [For researchers in Brazil](#14-for-researchers-in-brazil)
 15. [Traditional Chinese Medicine](#15-traditional-chinese-medicine)
-16. 📚 [Reliable theses and dissertations](THESES.md) *(separate page: 49 tips from official sources)*
+16. 📚 [Reliable theses and dissertations](THESES.md) *(separate page: tips from official sources)*
 
 ---
 
@@ -267,6 +267,7 @@ each community.
 | [SBM](https://sbm.org.br) — Brazilian Mathematical Society | The national mathematical society. | 💳 | Members get discounts on meetings and books. |
 | [SBMAC](https://www.sbmac.org.br) — Brazilian Society of Computational and Applied Mathematics | Organizes CNMAC, the annual applied mathematics congress. | 💳 | Membership with a student discount. |
 | [CAPES](https://www.gov.br/capes) and [CNPq](https://www.gov.br/cnpq) | The federal funding agencies (scholarships and grants). | 👤 | Registration through Lattes and each call's system. |
+| [DAAD](https://www.daad.de/en/) — German Academic Exchange Service | Scholarships and programmes to study and do research in Germany, in every field, mathematics included, for doctoral students and researchers. | 👤 | Search the [DAAD scholarship database](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/), filtering by country and level. [DAAD Research Ambassadors](https://www.daad.org/en/about-us/network/research-ambassadors/), volunteer professors at universities in the region, advise anyone interested. |
 
 ---
 
