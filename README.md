@@ -27,8 +27,7 @@ dreams of. Mathematics is full of stories that few people know.
 
 A practical guide to the websites, communities, databases, journals,
 societies and tools that mathematicians use and follow: **what each one is,
-whether it needs a login, and how to take part**. At the end, a section on
-where to discuss Traditional Chinese Medicine.
+whether it needs a login, and how to take part**.
 
 ## Contents
 
@@ -46,8 +45,7 @@ where to discuss Traditional Chinese Medicine.
 12. [Tools](#12-tools)
 13. [Stack Exchange communities](#13-stack-exchange-communities)
 14. [For researchers in Brazil](#14-for-researchers-in-brazil)
-15. [Traditional Chinese Medicine](#15-traditional-chinese-medicine)
-16. 📚 [Reliable theses and dissertations](THESES.md) *(separate page: tips from official sources)*
+15. 📚 [Reliable theses and dissertations](THESES.md) *(separate page: tips from official sources)*
 
 ---
 
@@ -111,7 +109,7 @@ Profiles that identify a researcher and gather their work.
 | [Scopus](https://www.scopus.com) | Elsevier's multidisciplinary database, with journal and author metrics. | 🏛️ | Also shows citations and author profiles. |
 | [OEIS](https://oeis.org) | The On-Line Encyclopedia of Integer Sequences. | 🆓 · 👤 to contribute | Type the first terms of a sequence and find out what it is. |
 | [nLab](https://ncatlab.org) | A wiki for advanced mathematics (categories, topology, mathematical physics). | 🆓 | Free to read. |
-| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | The main database of health research, including studies on acupuncture and herbal medicine. | 🆓 · 👤 optional | A free NCBI account lets you save searches and receive alerts. |
+| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | The main database of health research. | 🆓 · 👤 optional | A free NCBI account lets you save searches and receive alerts. |
 
 > ⚠️ **Predatory journals:** be wary of journals not indexed in the databases
 > above and of e-mail invitations to publish "quickly" for a fee.
@@ -268,29 +266,6 @@ each community.
 | [SBMAC](https://www.sbmac.org.br) — Brazilian Society of Computational and Applied Mathematics | Organizes CNMAC, the annual applied mathematics congress. | 💳 | Membership with a student discount. |
 | [CAPES](https://www.gov.br/capes) and [CNPq](https://www.gov.br/cnpq) | The federal funding agencies (scholarships and grants). | 👤 | Registration through Lattes and each call's system. |
 | [DAAD](https://www.daad.de/en/) — German Academic Exchange Service | Scholarships and programmes to study and do research in Germany, in every field, mathematics included, for doctoral students and researchers. | 👤 | Search the [DAAD scholarship database](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/), filtering by country and level. [DAAD Research Ambassadors](https://www.daad.org/en/about-us/network/research-ambassadors/), volunteer professors at universities in the region, advise anyone interested. |
-
----
-
-## 15. Traditional Chinese Medicine
-
-There is no Traditional Chinese Medicine community on Stack Exchange. One can
-be proposed through [Area 51](https://area51.stackexchange.com), but a
-proposal only becomes a site after gathering many committed users and being
-approved, which is rare nowadays. For visibility, the best approach is to
-**go where the experts already are**:
-
-| Place | Why | Access |
-| --- | --- | :---: |
-| [知乎 Zhihu](https://www.zhihu.com) | The "Chinese Stack Exchange", with many TCM doctors and teachers answering questions. The best option for readers of Chinese. | 👤 (phone sign-up) |
-| [Reddit · r/Acupuncture](https://www.reddit.com/r/Acupuncture/) | Discussions in English with practicing acupuncturists. | 👤 |
-| Acupuncture associations and schools | Forums and groups (Telegram, WhatsApp) with professionals in the field. | By invitation or membership |
-| [Medical Sciences SE](https://medicalsciences.stackexchange.com) | Questions with a scientific focus (evidence, studies). | 👤 |
-| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | To search published research on acupuncture and herbal medicine. | 🆓 |
-| A personal website on GitHub Pages | A **showcase** for ideas, texts and cases, linking to the discussions in the places above. | 👤 |
-
-> ⚠️ **Clinical records and case reports:** publish only **fully anonymized**
-> cases, with no name, date, place or any detail that could identify the
-> patient (data-protection law and professional ethics).
 
 ---
 

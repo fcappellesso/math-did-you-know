@@ -26,8 +26,7 @@ ogni matematico sogna. La matematica è piena di storie che pochi conoscono.
 
 Una guida pratica ai siti, alle comunità, alle banche dati, alle riviste, alle
 società e agli strumenti che i matematici usano e seguono: **che cos'è
-ciascuno, se richiede un account e come partecipare**. In fondo, una sezione
-su dove discutere di Medicina Tradizionale Cinese.
+ciascuno, se richiede un account e come partecipare**.
 
 ## Indice
 
@@ -45,8 +44,7 @@ su dove discutere di Medicina Tradizionale Cinese.
 12. [Strumenti](#12-strumenti)
 13. [Comunità di Stack Exchange](#13-comunità-di-stack-exchange)
 14. [Per chi fa ricerca in Brasile](#14-per-chi-fa-ricerca-in-brasile)
-15. [Medicina Tradizionale Cinese](#15-medicina-tradizionale-cinese)
-16. 📚 [Tesi affidabili](TESI.it.md) *(pagina a parte: consigli da fonti ufficiali)*
+15. 📚 [Tesi affidabili](TESI.it.md) *(pagina a parte: consigli da fonti ufficiali)*
 
 ---
 
@@ -111,7 +109,7 @@ I profili che identificano un ricercatore e ne raccolgono la produzione.
 | [Scopus](https://www.scopus.com) | Banca dati multidisciplinare di Elsevier, con metriche di riviste e autori. | 🏛️ | Mostra anche citazioni e profili d'autore. |
 | [OEIS](https://oeis.org) | L'enciclopedia online delle successioni di numeri interi. | 🆓 · 👤 per contribuire | Si scrivono i primi termini di una successione e si scopre di che cosa si tratta. |
 | [nLab](https://ncatlab.org) | Una wiki di matematica avanzata (categorie, topologia, fisica matematica). | 🆓 | Lettura libera. |
-| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | La principale banca dati della ricerca in ambito sanitario, compresi studi su agopuntura e fitoterapia. | 🆓 · 👤 facoltativo | Un account NCBI gratuito permette di salvare le ricerche e di ricevere avvisi. |
+| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | La principale banca dati della ricerca in ambito sanitario. | 🆓 · 👤 facoltativo | Un account NCBI gratuito permette di salvare le ricerche e di ricevere avvisi. |
 
 > ⚠️ **Riviste predatorie:** diffidare delle riviste non indicizzate nelle
 > banche dati sopra elencate e degli inviti via e-mail a pubblicare
@@ -269,30 +267,6 @@ in ciascuna comunità.
 | [SBMAC](https://www.sbmac.org.br) — Società Brasiliana di Matematica Applicata e Computazionale | Organizza il CNMAC, il congresso annuale di matematica applicata. | 💳 | Iscrizione con sconto per studenti. |
 | [CAPES](https://www.gov.br/capes) e [CNPq](https://www.gov.br/cnpq) | Le agenzie federali di finanziamento (borse di studio e bandi). | 👤 | Registrazione tramite Lattes e i sistemi di ciascun bando. |
 | [DAAD](https://www.daad.de/en/) — Servizio Tedesco per lo Scambio Accademico | Borse e programmi per studiare e fare ricerca in Germania, in tutte le aree, matematica compresa, per dottorandi e dottori di ricerca. | 👤 | Cerca nella [banca dati delle borse del DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/), filtrando per paese e livello. I [DAAD Research Ambassadors](https://www.daad.org/en/about-us/network/research-ambassadors/), professori volontari nelle università della regione, orientano chi è interessato. |
-
----
-
-## 15. Medicina Tradizionale Cinese
-
-Su Stack Exchange non esiste una comunità di Medicina Tradizionale Cinese. Se
-ne può proporre una tramite [Area 51](https://area51.stackexchange.com), ma
-una proposta diventa un sito solo dopo aver raccolto molti utenti impegnati
-ed essere stata approvata, cosa oggi rara. Per avere visibilità, la strada
-migliore è **andare dove gli esperti già si trovano**:
-
-| Luogo | Perché | Accesso |
-| --- | --- | :---: |
-| [知乎 Zhihu](https://www.zhihu.com) | Lo "Stack Exchange cinese", con molti medici e docenti di MTC che rispondono alle domande. L'opzione migliore per chi legge il cinese. | 👤 (registrazione con il cellulare) |
-| [Reddit · r/Acupuncture](https://www.reddit.com/r/Acupuncture/) | Discussioni in inglese con agopuntori praticanti. | 👤 |
-| Associazioni e scuole di agopuntura | Forum e gruppi (Telegram, WhatsApp) con professionisti del settore. | Su invito o tramite iscrizione |
-| [Medical Sciences SE](https://medicalsciences.stackexchange.com) | Domande con un approccio scientifico (evidenze, studi). | 👤 |
-| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | Per cercare ricerche pubblicate su agopuntura e fitoterapia. | 🆓 |
-| Un sito personale su GitHub Pages | Una **vetrina** per idee, testi e casi, con i link alle discussioni nei luoghi qui sopra. | 👤 |
-
-> ⚠️ **Cartelle cliniche e casi clinici:** pubblicare solo casi **completamente
-> anonimizzati**, senza nome, data, luogo o qualsiasi dettaglio che permetta
-> di identificare il paziente (normativa sulla protezione dei dati ed etica
-> professionale).
 
 ---
 

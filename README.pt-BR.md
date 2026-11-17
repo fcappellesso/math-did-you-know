@@ -28,8 +28,7 @@ matemático sonha. A matemática está cheia de histórias que pouca gente conhe
 
 Um guia prático dos sites, comunidades, bases de dados, revistas, sociedades
 e ferramentas que matemáticos costumam usar e acompanhar: **o que é cada um,
-se precisa de login e como participar**. No fim, uma seção sobre onde
-discutir Medicina Tradicional Chinesa.
+se precisa de login e como participar**.
 
 ## Sumário
 
@@ -47,8 +46,7 @@ discutir Medicina Tradicional Chinesa.
 12. [Ferramentas](#12-ferramentas)
 13. [Comunidades do Stack Exchange](#13-comunidades-do-stack-exchange)
 14. [Para quem pesquisa no Brasil](#14-para-quem-pesquisa-no-brasil)
-15. [Medicina Tradicional Chinesa](#15-medicina-tradicional-chinesa)
-16. 📚 [Dissertações e teses confiáveis](TESES.pt-BR.md) *(página à parte: dicas de fontes oficiais)*
+15. 📚 [Dissertações e teses confiáveis](TESES.pt-BR.md) *(página à parte: dicas de fontes oficiais)*
 
 ---
 
@@ -113,7 +111,7 @@ São os perfis que identificam um pesquisador e reúnem a sua produção.
 | [Scopus](https://www.scopus.com) | Base multidisciplinar da Elsevier, com métricas de revistas e autores. | 🏛️ | Também mostra citações e perfis de autores. |
 | [OEIS](https://oeis.org) | Enciclopédia online de sequências de inteiros. | 🆓 · 👤 para contribuir | Digite os primeiros termos de uma sequência e descubra o que ela é. |
 | [nLab](https://ncatlab.org) | Wiki de matemática avançada (categorias, topologia, física matemática). | 🆓 | Leitura livre. |
-| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | A grande base de artigos de saúde, inclusive pesquisas sobre acupuntura e fitoterapia. | 🆓 · 👤 opcional | Uma conta NCBI gratuita permite salvar buscas e receber alertas. |
+| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | A grande base de artigos de saúde. | 🆓 · 👤 opcional | Uma conta NCBI gratuita permite salvar buscas e receber alertas. |
 
 > ⚠️ **Revistas predatórias:** desconfie de revistas fora das bases acima e de
 > convites por e-mail para publicar "rapidamente" mediante pagamento.
@@ -270,28 +268,6 @@ cada comunidade.
 | [SBMAC](https://www.sbmac.org.br) — Sociedade Brasileira de Matemática Aplicada e Computacional | Organiza o CNMAC, o congresso anual de matemática aplicada. | 💳 | Anuidade com desconto para estudantes. |
 | [CAPES](https://www.gov.br/capes) e [CNPq](https://www.gov.br/cnpq) | As agências federais de fomento (bolsas e editais). | 👤 | Cadastro pelo Lattes e pelos sistemas de cada edital. |
 | [DAAD](https://www.daad.de/en/) — Serviço Alemão de Intercâmbio Acadêmico | Bolsas e programas para estudar e pesquisar na Alemanha, em todas as áreas, inclusive matemática, para doutorandos e doutores. | 👤 | Procure na [base de bolsas do DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/), filtrando por país e nível. Os [DAAD Research Ambassadors](https://www.daad.org/en/about-us/network/research-ambassadors/), professores voluntários em universidades da região, orientam quem tem interesse. |
-
----
-
-## 15. Medicina Tradicional Chinesa
-
-Não existe uma comunidade de MTC no Stack Exchange. É possível propor uma pelo
-[Area 51](https://area51.stackexchange.com), mas uma proposta só vira site se
-reunir muitos usuários comprometidos e for aprovada, e hoje isso é raro.
-Para ter visibilidade, o melhor é **ir aonde os especialistas já estão**:
-
-| Lugar | Por quê | Acesso |
-| --- | --- | :---: |
-| [知乎 Zhihu](https://www.zhihu.com) | O "Stack Exchange chinês", com muitos médicos e professores de MTC respondendo perguntas. A melhor opção para quem lê chinês. | 👤 (cadastro com celular) |
-| [Reddit · r/Acupuncture](https://www.reddit.com/r/Acupuncture/) | Discussões em inglês com acupunturistas praticantes. | 👤 |
-| Associações e escolas de acupuntura | Fóruns e grupos (Telegram, WhatsApp) com profissionais da área. | Por convite ou associação |
-| [Medical Sciences SE](https://medicalsciences.stackexchange.com) | Perguntas com enfoque científico (evidências, estudos). | 👤 |
-| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | Para buscar pesquisas publicadas sobre acupuntura e fitoterapia. | 🆓 |
-| Um site próprio no GitHub Pages | Uma **vitrine** para ideias, textos e casos, com links para as discussões nesses lugares. | 👤 |
-
-> ⚠️ **Prontuários e casos clínicos:** publique somente casos **totalmente
-> anonimizados**, sem nome, data, local ou qualquer detalhe que identifique o
-> paciente (no Brasil, LGPD e ética profissional).
 
 ---
 
